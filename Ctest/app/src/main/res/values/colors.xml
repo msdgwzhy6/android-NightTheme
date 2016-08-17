@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="day_titlebar">#197d96</color>
+    <color name="day_text">#819a9a</color>
+    <color name="night_titlebar">#2A2A2A</color>
+</resources>

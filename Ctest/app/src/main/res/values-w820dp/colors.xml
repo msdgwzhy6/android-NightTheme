@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="day_text">#eeffff</color>
+    <color name="night_titlebar">#2A2A2A</color>
+</resources>
